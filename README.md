@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div style="width: 100%;">
-  <img src="[animated.svg](https://github.com/harshitjiandani/harshitjiandani/blob/main/svgviewer-output.svg)" style="width: 100%;" alt="Click to see the source">
+  <img src="https://raw.githubusercontent.com/harshitjiandani/harshitjiandani/main/svgviewer-output.svg" style="width: 100%;" alt="Click to see the source">
 </div>
+
 
 
 ###
