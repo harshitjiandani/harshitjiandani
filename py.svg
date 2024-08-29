@@ -32,8 +32,8 @@
         .icons {
           display: flex;
           align-items: center;
-          gap: 10px; /* Adjusted gap for closer icons */
-          margin-top: 20px;
+          gap: 20px; /* Adjusted gap for closer icons */
+          margin-top: 5px;
 	  justify-content: center; 
         }
 
