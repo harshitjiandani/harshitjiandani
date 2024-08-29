@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 100" width="700" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#001f3f"/>
@@ -9,7 +9,7 @@
 
   <rect width="100%" height="100%" fill="url(#bgGradient)" />
   
-  <foreignObject x="0" y="0" width="700" height="100">
+  <foreignObject x="0" y="0" width="800" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
       <style>
         @keyframes hi {
@@ -31,15 +31,15 @@
 
         .icons {
           display: flex;
-          align-items: center;
+          align-items: left;
           gap: 20px; /* Adjusted gap for closer icons */
-          margin-top: 5px;
-	  justify-content: center; 
+          margin-top: 1px;
+	  justify-content: left; 
         }
 
         .icons svg {
-          height: 35px; /* Adjusted size to make icons visible */
-          width: 35px; /* Adjusted size to make icons visible */
+          height: 30px; /* Adjusted size to make icons visible */
+          width: 30px; /* Adjusted size to make icons visible */
         }
       </style>
 
