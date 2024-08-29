@@ -10,7 +10,7 @@
   <rect width="100%" height="100%" fill="url(#bgGradient)" />
   
   <foreignObject x="0" y="0" width="300" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
       <style>
         @keyframes hi {
           0% { transform: rotate(0.0deg); }
