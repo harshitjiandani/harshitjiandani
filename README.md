@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="width: 100%;">
+<div>
   <img src="https://raw.githubusercontent.com/harshitjiandani/harshitjiandani/main/svgviewer-output.svg">
 </div>
 
