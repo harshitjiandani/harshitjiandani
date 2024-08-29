@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img src="https://raw.githubusercontent.com/harshitjiandani/harshitjiandani/main/svgviewer-output.svg">
+<div style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/harshitjiandani/harshitjiandani/main/svgviewer-output.svg" style="width: 100%; max-height: 50px;" alt="Click to see the source">
 </div>
 
 
