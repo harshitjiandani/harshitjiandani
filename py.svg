@@ -38,7 +38,7 @@
         }
 
         .icons svg {
-          height: 36; /* Adjusted size to make icons visible */
+          height: 36px; /* Adjusted size to make icons visible */
           width: 36px; /* Adjusted size to make icons visible */
         }
       </style>
