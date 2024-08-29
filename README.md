@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <img src="[animated.svg](https://github.com/harshitjiandani/harshitjiandani/blob/main/svgviewer-output.svg)" style="width: 100%;" alt="Click to see the source">
 </div>
 
+
 ###
 
 <img src="https://raw.githubusercontent.com/harshitjiandani/harshitjiandani/output/snake.svg" alt="Snake animation" />
