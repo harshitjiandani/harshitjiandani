@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 </div>
 
 
+  ![Snake animation](https://github.com/harshitjiandani/harshitjiandani/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 ###
