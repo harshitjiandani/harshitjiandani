@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<div style="width: 600px; height: 100px; overflow: hidden;">
+  <img src="https://raw.githubusercontent.com/harshitjiandani/harshitjiandani/main/svgviewer-output.svg" style="width: 100%; height: 100%;" alt="SVG Animation">
   
-</div>
-
-![Snake animation](https://raw.githubusercontent.com/harshitjiandani/output/main/snake.svg)
-
-<!-- Alternative HTML display for the Snake animation -->
-<img src="https://raw.githubusercontent.com/harshitjiandani/output/main/snake.svg" alt="Snake animation" />
 
