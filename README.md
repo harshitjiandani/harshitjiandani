@@ -1,5 +1,5 @@
 <div style="width: 99px; height: 50px; overflow: hidden;">
-  <img src="[https://raw.githubusercontent.com/harshitjiandani/harshitjiandani/main/svgviewer-output.svg](https://github.com/harshitjiandani/harshitjiandani/blob/main/svgviewer-output.svg)" style="width: 100%; height: 80%;>
+  <img src="https://raw.githubusercontent.com/harshitjiandani/harshitjiandani/main/svgviewer-output.svg" style="width: 100%; height: 80%;>
 </div>
 
 
@@ -15,6 +15,5 @@
 <img src="https://raw.githubusercontent.com/harshitjiandani/harshitjiandani/output/snake.svg" alt="Snake animation" />
 
 ###
-
 
 
