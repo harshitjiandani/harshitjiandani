@@ -20,6 +20,13 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/harshitjiandani/harshitjiandani/main/svgviewer-output.svg" style="width: 100%; height: 80%;>
 </div>
 
+
+  ![Snake animation](https://github.com/harshitjiandani/harshitjiandani/output/snake.svg)
+
+
+
+
+
 ###
 
 <img src="https://raw.githubusercontent.com/harshitjiandani/harshitjiandani/output/snake.svg" alt="Snake animation" />
